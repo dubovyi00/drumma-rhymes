@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "BossStyle";
+  src: url("../../../BossStyle-Bold.otf");
+}
+
+div.dr-55-body_block {
+  background-color: rgb(20, 20, 20);
+  width: 844px;
+  height: 464px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 3px;
+}
+
+div.dr-55-line_block {
+  height: 2px;
+  background-color: white;
+}
+
+span.dr-55-title {
+  position: relative;
+  color: rgb(255, 157, 0);
+  font-family: BossStyle;
+  font-size: 28px;
+  top: 15px;
+  margin-left: 140px;
+}
+
+div.dr-55-background {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  color: rgb(247, 210, 150);
+}
